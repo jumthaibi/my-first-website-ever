@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
 </head>
 
+
 <body>
     <table cellspacing="20">
         <tr><td><img src="cropped_image.png" width="150" height="150" alt="girl"></td>
