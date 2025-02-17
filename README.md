@@ -18,7 +18,7 @@
             <p>I love drawing, embroidery and programming <br></p></td>
         </tr>
     </table>
-<center>
+
 <center><hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;background-color:#E8F9FF;"> </center>    
 
 
@@ -119,7 +119,7 @@
 
 <h3><a href="contact.html">Contact Me </a></h3>
 <p>a website i have done before <a href="one.html">here</a></p>
-</center>
+
 </body>
 </html>
 <!-- everything must be done -->
