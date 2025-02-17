@@ -20,7 +20,7 @@
     </table>
     
     
-<hr>
+<hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;">
 <h3>
         Education &#128151;
 </h3>
@@ -36,7 +36,7 @@
         <li>Programming</li>
         <li>embroidery</li>
     </ul>
-    <hr size="3" >
+    <hr size="3" style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;">
     <h3>
         Favorite things to eat and drink &#127843; &#129475;
     </h3>
@@ -65,7 +65,7 @@
         </ul>
         </Li>
     </ol>
-<hr size="3"> 
+<hr size="3" style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"> 
 
 <table>
     <thead>
@@ -86,7 +86,7 @@
         </tr>
     </tbody>
 </table>
-<hr size="3" > 
+<hr size="3" style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"> 
 <table cellspacing="10">
     <thead>
         <tr>
