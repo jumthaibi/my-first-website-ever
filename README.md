@@ -19,8 +19,8 @@
         </tr>
     </table>
     
-    
-<hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"></hr>
+ <center><hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"></center>   
+
 <h3>
         Education &#128151;
 </h3>
