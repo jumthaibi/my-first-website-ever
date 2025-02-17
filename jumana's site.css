@@ -11,3 +11,7 @@ h1,h3{
 h1{font-family:"Sofia",sans-serif;}
 thead {color: #349f9f;}
 table{background-color:#E8F9FF;}
+td,th {
+    background-color:#E8F9FF;
+    border-style:none; 
+}
