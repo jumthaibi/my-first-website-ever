@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,8 +17,8 @@
             <p>I love drawing, embroidery and programming <br></p></td>
         </tr>
     </table>
-    
-<hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"> 
+<center><hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"> </center>    
+
 
 <h3>
         Education &#128151;
@@ -36,8 +35,9 @@
         <li>Programming</li>
         <li>embroidery</li>
     </ul>
-    <hr size="3" style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;">
-    <h3>
+<center><hr size="3" style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;background-color:"></center>    
+
+<h3>
         Favorite things to eat and drink &#127843; &#129475;
     </h3>
     <ol type="i">
