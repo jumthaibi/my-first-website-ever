@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Jumana's Site</title>
-    <link rel="stylesheet" href="css/jumana's site.css">
+    <link rel="stylesheet" href="jumana's site.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
 </head>
 
 <body>
     <table cellspacing="20">
-        <tr><td><img src="file:///C:/Users/MAC/Downloads/cropped_image.png" width="150" height="150" alt="girl"></td>
+        <tr><td><img src="cropped_image.png" width="150" height="150" alt="girl"></td>
         <td>
-            <h1>Jumana Al-Thaibi &#128103</h1>
+            <h1>Jumana Al-Thaibi &#128103;</h1>
             <b><i>
             <p>Data Science student at <a href="https://www.ju.edu.jo/Home.aspx">the University Of Jordan</a></p>
             </i></b>   
@@ -20,10 +20,10 @@
     </table>
     
     
-    <hr size="3"><!-- self closing tag -->
-    <h3>
+<hr>
+<h3>
         Education &#128151;
-    </h3>
+</h3>
     <ol type="I">
         <li>started studying at Al-Rai Schools</li>
         <li>Then went to The University Of Jordan</li>
@@ -38,7 +38,7 @@
     </ul>
     <hr size="3" >
     <h3>
-        Favorite things to eat and drink &#127843 &#129475
+        Favorite things to eat and drink &#127843; &#129475;
     </h3>
     <ol type="i">
         <li><i>In Summer</i>
