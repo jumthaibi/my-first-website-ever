@@ -19,7 +19,7 @@
         </tr>
     </table>
     
- <center><hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"></center>   
+<hr style="border-style: none;border-top-style: dotted;border-color: lightskyblue;border-width: 5px;width:25%;text-align:center;"> 
 
 <h3>
         Education &#128151;
